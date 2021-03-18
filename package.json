@@ -1,0 +1,24 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbednarz2/Node-Express-Tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbednarz2/Node-Express-Tut/issues"
+  },
+  "homepage": "https://github.com/danielbednarz2/Node-Express-Tut#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
